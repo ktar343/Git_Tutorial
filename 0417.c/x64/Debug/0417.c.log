@@ -1,0 +1,10 @@
+﻿  0417.c
+C:\Users\Administrator\Desktop\vscode\0417.c\0417.c\0417.c(30,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\Administrator\Desktop\vscode\0417.c\0417.c\0417.c(30,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\Administrator\Desktop\vscode\0417.c\0417.c\0417.c(30,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%g'에 필요합니다.
+C:\Users\Administrator\Desktop\vscode\0417.c\0417.c\0417.c(5,41): warning C4101: 'x1' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\Desktop\vscode\0417.c\0417.c\0417.c(5,34): warning C4101: 'y3' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\Desktop\vscode\0417.c\0417.c\0417.c(5,53): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\Desktop\vscode\0417.c\0417.c\0417.c(5,49): warning C4101: 'x3' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\Desktop\vscode\0417.c\0417.c\0417.c(5,45): warning C4101: 'x2' :참조되지 않은 지역 변수입니다.
+  0417.c.vcxproj -> C:\Users\Administrator\Desktop\vscode\0417.c\x64\Debug\0417.c.exe
